@@ -1,8 +1,4 @@
-# Employee-Manager
 
-
-
-```markdown
 # Employee Management System
 
 A full-stack **Employee Management System** with **role-based authentication** built using:
