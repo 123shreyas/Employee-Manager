@@ -95,9 +95,6 @@ Create a `.env` file in the `backend/` directory with:
 ```
 PORT=5000
 JWT_SECRET=your_secret_key
-FIREBASE_PROJECT_ID=your_project_id
-FIREBASE_PRIVATE_KEY=your_private_key
-FIREBASE_CLIENT_EMAIL=your_client_email
 ```
 
 ⚠ **Do not commit `.env` to version control.**
@@ -126,7 +123,4 @@ FIREBASE_CLIENT_EMAIL=your_client_email
 
 ```
 
----
 
-If you want, I can also **write the `package.json` script for `npm run create-admin`** so that it automatically inserts `admin@company.com` with password `Admin@123` into Firestore. That way the command will be ready to use immediately.
-```
