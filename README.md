@@ -36,7 +36,7 @@ project-root/
 1. Navigate to the frontend folder:
    ```sh
    cd frontend
-````
+
 
 2. Install dependencies:
    ```sh
@@ -52,8 +52,6 @@ project-root/
    ```sh
    npm run build
    ```
-
----
 
 ## ⚙ Backend Setup
 
