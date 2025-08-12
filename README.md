@@ -39,7 +39,6 @@ project-root/
 ````
 
 2. Install dependencies:
-
    ```sh
    npm install
    ```
